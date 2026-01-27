@@ -1,6 +1,6 @@
 # VAUTECH IT SOLUTIONS – TASK 1
 
-**Intern:** Priyashu Thakur  
+**Intern:** Priyanshu Thakur  
 
 **Intern ID:** VT26DS006
 
