@@ -1,9 +1,13 @@
 # VAUTECH IT SOLUTIONS – TASK 1
 
 **Intern:** Priyashu Thakur  
+
 **Intern ID:** VT26DS006
+
 **Domain:** Data Science
-**Company:** VAUTECH IT SOLUTIONS  
+
+**Company:** VAUTECH IT SOLUTIONS 
+
 **Mentor:** Vishal Rajbhar 
 
 ---
