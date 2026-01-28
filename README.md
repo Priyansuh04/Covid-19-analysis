@@ -12,7 +12,7 @@
 
 ---
 
-## Task: Understanding Suicide data for Mental Health Analysis
+## Task:Understanding Data Sources & Collection methods
 
 For this task, I worked with a real-world COVID-19 dataset containing information about confirmed cases, deaths, recoveries, and testing data from many countries across different years. The main objective of this task was to understand what the dataset represents and what kind of real-life problems it can help us study.
 The dataset contains information such as country/region, date, total confirmed cases, total deaths, total recovered cases, active cases, and other relevant indicators..
