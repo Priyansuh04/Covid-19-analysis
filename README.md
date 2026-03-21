@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/MainakRepositor/Datasets/master/covid_19_india
 
 ## Why i chose this dataset
 
-I chose this dataset because COVID-19 had a major impact on global health and economies. Analyzing this type of data can help us understand how the virus spread, which countries were most affected, and how effective different control measures were. It also supports decision-making for public health planning and awareness
+I choose this dataset because COVID-19 had a major impact on global health and economies. Analyzing this type of data can help us understand how the virus spread, which countries were most affected, and how effective different control measures were. It also supports decision-making for public health planning and awareness
 
 ## What this data can help us find
 
